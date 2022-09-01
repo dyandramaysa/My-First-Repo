@@ -4,4 +4,4 @@ NPM     : 2106632232
 
 Kelas   : A
 
-Hobi    : Nonton Drakor
+Hobi    : Makan
